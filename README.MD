@@ -1,4 +1,4 @@
-# Air Quality Analysis
+# Air Quality Analysis{ipynb version}
 
 This repository contains code for analyzing air quality data in New York City as part of the Data Science Lab course.
 
